@@ -19,7 +19,7 @@ const About = () => {
         <div className="col-six tab-full">
           <h3>{INTRODUCTION.profile.title}</h3>
           <p>
-            {INTRODUCTION.description}
+            {INTRODUCTION.profile.description}
           </p>
           <ul className="info-list">
              {Object.entries(INTRODUCTION.profile.content).map(el=>{
@@ -46,7 +46,7 @@ const About = () => {
               </li>)
              })}
            
-          </ul>{" "}
+          </ul>
           {/* /skill-bars */}
         </div>
       </div>

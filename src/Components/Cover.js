@@ -10,7 +10,7 @@ const Cover = () => {
       <div className="row">
         <div className="col-twelve">
           <h5>Hello, World.</h5>
-          <h1>{INTRODUCTION.profile.content.fullname}</h1>
+          <h1>I'm {INTRODUCTION.profile.content.fullname}</h1>
           <p className="intro-position">
             {TITLE.map(el=><span>{el}</span>)}   
             <span>UI/UX Designer</span>
