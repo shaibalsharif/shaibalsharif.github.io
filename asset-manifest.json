@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf1491b4.css",
+    "main.js": "/static/js/main.fa09012d.js",
+    "static/media/bg.jpg": "/static/media/bg.c74bdb193e064394aa5c.jpg",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.1a8c58441daedced6444.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/icomoon.svg?jo2z5t": "/static/media/icomoon.2deaf70e8a227525f57b.svg",
+    "static/media/m-shutterbug.jpg": "/static/media/m-shutterbug.ed06194a39d04670fcc8.jpg",
+    "static/media/liberty.jpg": "/static/media/liberty.21bc735cd3382f51c000.jpg",
+    "static/media/m-salad.jpg": "/static/media/m-salad.6682144300b7cc776fa6.jpg",
+    "static/media/salad.jpg": "/static/media/salad.7c094dadc1e223cee2ae.jpg",
+    "static/media/lighthouse.jpg": "/static/media/lighthouse.f6e43329705c5ef9ecf5.jpg",
+    "static/media/m-lighthouse.jpg": "/static/media/m-lighthouse.6d5e4a00716b02c933a4.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/shutterbug.jpg": "/static/media/shutterbug.8ed68048241250db2bd1.jpg",
+    "static/media/m-liberty.jpg": "/static/media/m-liberty.3dcb878599a222685350.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/m-clouds.jpg": "/static/media/m-clouds.a8d509bf6d83e0eea733.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/icomoon.eot?jo2z5t": "/static/media/icomoon.b09c6cfe6d1a3ee07d09.eot",
+    "static/media/icomoon.woff?jo2z5t": "/static/media/icomoon.3bf66f1dbb0be274dbef.woff",
+    "static/media/icomoon.ttf?jo2z5t": "/static/media/icomoon.246898346a97714df9a2.ttf",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.dab5b72121056e98b1fa.jpg",
+    "static/media/m-beetle.jpg": "/static/media/m-beetle.7439c3f4cd5d87c572d0.jpg",
+    "static/media/beetle.jpg": "/static/media/beetle.6a5d3c63593b0432002b.jpg",
+    "static/media/clouds.jpg": "/static/media/clouds.3d50b1a0bedac6a6ff6a.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bf1491b4.css.map": "/static/css/main.bf1491b4.css.map",
+    "main.fa09012d.js.map": "/static/js/main.fa09012d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1491b4.css",
+    "static/js/main.fa09012d.js"
+  ]
+}
